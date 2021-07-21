@@ -1,0 +1,56 @@
+
+.submit:hover
+{
+    background-color: seagreen; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+td{
+    border: 2px solid black;
+    padding: 5px;
+}
+table {
+    width: 50%;
+  
+    background-color: lightblue;
+    text-transform: capitalize;
+    text-align: center;
+    border: 2px solid yellow;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+    width: 90%;
+    border: 5px solid red;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    background-color: lightgrey;
+}
+a{
+    color: hotpink;
+    text-decoration: blink;
+}
+tr:hover{
+    background-color: lightpink;
+}
+h1{
+	font-family:'times new roman',times,sans-serif;
+	font-size: 36px;
+	text-transform: uppercase;
+	text-shadow: 2px 0 0 yellow;
+	text-decoration-color: red;
+	text-align: center;
+}
